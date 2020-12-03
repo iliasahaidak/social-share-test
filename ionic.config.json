@@ -1,0 +1,7 @@
+{
+  "name": "social-share-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
